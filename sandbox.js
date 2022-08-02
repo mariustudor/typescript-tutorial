@@ -24,7 +24,7 @@ ninja.name = 'ryu';
 // ninja.skills = ['fighting', 'sneaking']
 ninja = {
     name: 'yoshi',
-    stars: 6,
+    stars: 6.2,
     belt: 'orange',
     age: 40
 };
