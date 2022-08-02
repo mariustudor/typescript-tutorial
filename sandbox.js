@@ -14,6 +14,7 @@ mixed[0] = 3;
 // objects
 var ninja = {
     name: 'mario',
+    stars: 0,
     belt: 'black',
     age: 30
 };
@@ -23,6 +24,7 @@ ninja.name = 'ryu';
 // ninja.skills = ['fighting', 'sneaking']
 ninja = {
     name: 'yoshi',
+    stars: 6,
     belt: 'orange',
     age: 40
 };
